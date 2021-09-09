@@ -1,0 +1,17 @@
+{
+  "name": "messengerBot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "run": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "facebook-chat-api": "^1.8.0",
+    "puppeteer": "^10.2.0"
+  }
+}
